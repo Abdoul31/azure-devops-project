@@ -1,0 +1,6 @@
+/home/pablo/todo-app/src/main/java/com/example/todo/App.java
+/home/pablo/todo-app/src/main/java/com/example/todo/TodoApplication.java
+/home/pablo/todo-app/src/main/java/com/example/todo/controller/TodoController.java
+/home/pablo/todo-app/src/main/java/com/example/todo/model/Todo.java
+/home/pablo/todo-app/src/main/java/com/example/todo/repository/TodoRepository.java
+/home/pablo/todo-app/src/main/java/com/example/todo/service/TodoService.java
